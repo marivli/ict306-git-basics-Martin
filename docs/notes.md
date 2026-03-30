@@ -10,4 +10,9 @@
 3. Modifier
 4. Commit
 5. Push
-6. PR + merge
+6. PR + mergeFDSA
+SDF
+SADF
+ASD
+FA
+SD
